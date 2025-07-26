@@ -1,0 +1,9 @@
+streamlit
+dvc_s3
+pandas
+numpy
+python-dotenv
+scikit-learn
+mlflow
+dagshub
+nltk
